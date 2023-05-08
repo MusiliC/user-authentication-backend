@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  min-height: 100h;
+  color: white;
+  display: grid;
+  place-content: center;
+  padding: 1rem;
+  font-size: 2rem;
+}
